@@ -31,5 +31,5 @@ Este repositório contém diversos recursos e exemplos para ajudar você a apren
 Para começar, clone este repositório em sua máquina local e siga as instruções nos tutoriais para configurar seu ambiente de desenvolvimento e começar a programar em C.
 
 ```sh
-git clone https://github.com/BelchiorSoares/repository-name.git
-cd repository-name
+git clone https://github.com/BelchiorSoares/Get-started.git
+cd repository-Get-started
